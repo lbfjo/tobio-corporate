@@ -18,7 +18,7 @@ languageCode = "fr-fr"
 languageName = "fr"
 weight = 2
 [[menu.main]]
-URL = "http://www.app.tobio.pt"
+url = "http://www.app.tobio.pt"
 name = "APP2"
 weight = ""
 [[menu.main]]
