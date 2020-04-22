@@ -22,31 +22,31 @@ url = "http://www.app.tobio.pt"
 name = "APP2"
 weight = ""
 [[menu.main]]
-URL = "contact"
+URL = "#contact"
 name = "Contact"
 weight = 7
 [[menu.main]]
-URL = "blog"
+URL = "#blog"
 name = "Blog"
 weight = 6
 [[menu.main]]
-URL = "pricing"
+URL = "#pricing"
 name = "Pricing"
 weight = 5
 [[menu.main]]
-URL = "team"
+URL = "#team"
 name = "Team"
 weight = 4
 [[menu.main]]
-URL = "portfolio"
+URL = "#portfolio"
 name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "services"
+URL = "#services"
 name = "Service"
 weight = 2
 [[menu.main]]
-URL = "about"
+URL = "#about"
 name = "About Us"
 weight = 1
 [params]
