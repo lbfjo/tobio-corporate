@@ -19,7 +19,7 @@ languageName = "fr"
 weight = 2
 [[menu.main]]
 URL = "http://www.app.tobio.pt"
-name = "APP"
+name = "APP2"
 weight = ""
 [[menu.main]]
 URL = "contact"
