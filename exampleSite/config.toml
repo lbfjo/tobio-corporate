@@ -52,10 +52,6 @@ weight = 2
 [[menu.static]]
 name = "App"
 url = "www.tobio.pt"
-weight = 2
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
 weight = 1
 [params]
 author = "Themefisher"
