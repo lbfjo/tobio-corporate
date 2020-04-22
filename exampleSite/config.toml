@@ -23,7 +23,7 @@ static = []
 URL = "http://app.tobio.pt"
 name = "APP"
 url = "http://app.tobio.pt"
-weight = ""
+weight = "1"
 [[menu.main]]
 URL = "about"
 name = "About Us"
