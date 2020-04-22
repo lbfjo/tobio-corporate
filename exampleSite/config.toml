@@ -1,4 +1,4 @@
-baseURL = "https://tobio-netlify.com"
+baseURL = "https://tobio.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
