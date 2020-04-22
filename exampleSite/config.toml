@@ -18,6 +18,10 @@ languageCode = "fr-fr"
 languageName = "fr"
 weight = 2
 [[menu.main]]
+name = "APP"
+url = "http://www.app.tobio.pt"
+weight = 8
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 7
