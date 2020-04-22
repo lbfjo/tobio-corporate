@@ -47,10 +47,6 @@ weight = 6
 URL = "contact"
 name = "Contact"
 weight = 7
-[[menu.main]]
-URL = "http://www.app.tobio.pt"
-name = "App"
-weight = ""
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
