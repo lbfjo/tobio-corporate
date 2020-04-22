@@ -20,9 +20,9 @@ weight = 2
 [menu]
 static = []
 [[menu.main]]
-URL = "http://app.tobio.pt"
+URL = "http://www.app.tobio.pt"
 name = "APP"
-url = "http://app.tobio.pt"
+url = "http://www.app.tobio.pt"
 weight = "1"
 [[menu.main]]
 URL = "about"
