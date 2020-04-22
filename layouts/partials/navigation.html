@@ -16,14 +16,12 @@
 			<div class="collapse navbar-collapse" id="navigation">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item"><a class="nav-link" href="#body">{{ .Site.Params.home }}</a></li>
-					{{ if .IsHome  &&  .Name = 'APP2' }}
+					{{ if .IsHome }}
 					{{ range .Site.Menus.main }}
 					<li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
 					{{ end }}
 
 					{{ else }}
-					<li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ .Name }}</a></li>
-
 
 					{{ range .Site.Menus.main }}
 					<li class="nav-item"><a class="nav-link" href="{{ .URL |relURL }}">{{ .Name }}</a>
