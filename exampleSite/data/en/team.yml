@@ -4,8 +4,8 @@ team:
   title: Equipa toBio
   team_member:
   - name: Hugo João
-    image_webp: "/images/hugo-joo-convertimage.webp"
-    image: "/images/hugo-joo-convertimage.jpg"
+    image_webp: "/images/image-2.wpg"
+    image: "/images/image-2.png"
     designation: CMO/CCO
     content: ''
     social: []
