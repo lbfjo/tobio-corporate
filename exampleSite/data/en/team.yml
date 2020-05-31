@@ -16,13 +16,13 @@ team:
     content: ''
     social: []
   - name: Francisco Bruno
-    image_webp: "/images/francisco-bruno-convertimage.webpg"
+    image_webp: "/images/francisco-bruno-convertimage.webp"
     image: "/images/francisco-bruno-convertimage.jpg"
     designation: CTO
     content: ''
     social: []
   - name: Gonçalo Ferreira
-    image_webp: "/images/gonalo-ferreira-convertimage.webpg"
+    image_webp: "/images/gonalo-ferreira-convertimage.webp"
     image: "/images/gonalo-ferreira-convertimage.jpg"
     designation: CFO
     content: ''
