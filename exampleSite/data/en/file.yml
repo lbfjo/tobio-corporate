@@ -1,0 +1,13 @@
+---
+about:
+  enable: true
+  title: Sobre Nós
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Somos Criativos
+    content: Jovens com muita ambição, imaginação e criatividade
+  - icon: ti-cup
+    title: Somos Profissionais
+    content: Pró-ativos, responsáveis e calculistas
+title: ''
+draft: true
