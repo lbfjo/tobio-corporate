@@ -4,13 +4,13 @@ team:
   title: Equipa toBio
   team_member:
   - name: Hugo João
-    image_webp: "/images/hugo-joo-convertimage.webpg"
+    image_webp: "/images/hugo-joo-convertimage.webp"
     image: "/images/hugo-joo-convertimage.jpg"
     designation: CMO/CCO
     content: ''
     social: []
   - name: Mariana Melo
-    image_webp: "/images/159092861710868077.webpg"
+    image_webp: "/images/159092861710868077.webp"
     image: "/images/159092861710868077.jpg"
     designation: CEO
     content: ''
