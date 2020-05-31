@@ -1,7 +1,7 @@
 ---
 title: toBio
 image: ''
-email: ''
+email: tobiopt@gmail.com
 social: []
 
 ---
