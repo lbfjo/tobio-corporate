@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Forbes
-    image: ''
-    image_webp: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.noticiasaominuto.com%2Feconomia%2F1466729%2Fmarca-forbes-com-nova-estrategia-para-portugal-e-angola&psig=AOvVaw18eQb_jLtvWz-BQECZ9gf4&ust=1591013782372000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjLiq2K3ukCFQAAAAAdAAAAABAD
+    image: images/backgrounds/naom_5639d50926a86.jpg
+    image_webp: images/backgrounds/naom_5639d50926a86.webp
     date: "2020"
     content: '"Top 10 Fastest-Growing Companies in 2020"'
