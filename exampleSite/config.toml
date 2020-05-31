@@ -18,24 +18,40 @@ languageCode = "fr-fr"
 languageName = "fr"
 weight = 2
 [[menu.main]]
-name = "WebApp"
+name = "APP2"
 url = "http://www.app.tobio.pt"
-weight = 1
+weight = ""
 [[menu.main]]
-URL = "#about"
-name = "Sobre Nós"
-weight = 2
+URL = "#contact"
+name = "Contact"
+weight = 7
+[[menu.main]]
+URL = "#blog"
+name = "Blog"
+weight = 6
+[[menu.main]]
+URL = "#pricing"
+name = "Pricing"
+weight = 5
 [[menu.main]]
 URL = "#team"
 name = "Team"
+weight = 4
+[[menu.main]]
+URL = "#portfolio"
+name = "Portfolio"
 weight = 3
 [[menu.main]]
-URL = "#contact"
-name = "Contactos"
-weight = 4
+URL = "#services"
+name = "Service"
+weight = 2
+[[menu.main]]
+URL = "#about"
+name = "About Us"
+weight = 1
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "toBio"
+description = "toBio or not toBio"
 google_analitycs_id = ""
 logo = "images/tobio.png"
 post_share = true
