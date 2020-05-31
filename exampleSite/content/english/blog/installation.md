@@ -1,3 +1,4 @@
+---
 title: "How To Setup Meghna Hugo"
 date: 2018-09-12T14:51:12+06:00
 author: Mark Dinn
@@ -39,6 +40,9 @@ After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cu
 open the command prompt again and run `cd ../` command for go back to the root folder.
 
 ### STEP-4 : Host locally
+
+Launching the website locally by using the following command:
+
 ```
 hugo serve
 ```
@@ -69,6 +73,10 @@ When your site is ready to deploy, run the following command:
 
 ```
 hugo
+
 # You can also create a minified version by using this command:
 hugo--minify
+
 ```
+
+A `public` folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
