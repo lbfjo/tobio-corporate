@@ -1,6 +1,6 @@
 ---
 title: toBio
-image: ''
+image: teste
 email: tobiopt@gmail.com
 social: []
 
