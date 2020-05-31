@@ -5,7 +5,7 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Forbes
-    image: images/backgrounds/naom_5639d50926a86.jpg
-    image_webp: images/backgrounds/naom_5639d50926a86.webp
+    image: "/images/naom_5639d50926a86.jpg"
+    image_webp: "/images/naom_5639d50926a86.webp"
     date: "2020"
     content: '"Top 10 Fastest-Growing Companies in 2020"'
