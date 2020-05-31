@@ -16,8 +16,8 @@ team:
     content: ''
     social: []
   - name: Francisco Bruno
-    image_webp: "/images/francisco-bruno-convertimage.webp"
-    image: "/images/francisco-bruno-convertimage.jpg"
+    image_webp: "/images/image.webp"
+    image: "/images/image.png"
     designation: CTO
     content: ''
     social: []
