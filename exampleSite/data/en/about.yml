@@ -3,7 +3,7 @@ about:
   enable: true
   title: Sobre Nós
   about_item:
-  - icon: ti-signal
+  - icon: ti-world
     title: toBio
     content: Somos a sua ligação ao mundo biológico
   - icon: ti-ruler-pencil
