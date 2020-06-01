@@ -3,7 +3,7 @@ author = "toBio"
 date = ""
 description = ""
 image = "/images/3da6b648-29bf-44eb-8d82-7d4401423190_200x200.png"
-image_webp = "/images/687f11ed-1341-4428-a849-fc3829f0a652_200x200 (1).png"
+image_webp = "/images/tobio.png"
 title = "O que é a toBio?"
 
 +++

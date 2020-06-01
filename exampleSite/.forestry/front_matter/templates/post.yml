@@ -22,6 +22,3 @@ fields:
   name: description
   label: description
   description: meta description
-pages:
-- exampleSite/content/english/blog/o-que-e-a-tobio-1.20191203072044
-- exampleSite/content/english/blog/o-que-e-a-tobio.20191203072044
