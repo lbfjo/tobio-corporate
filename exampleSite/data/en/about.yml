@@ -3,7 +3,7 @@ about:
   enable: true
   title: Sobre Nós
   about_item:
-  - icon: "/images/687f11ed-1341-4428-a849-fc3829f0a652_200x200 (1).png"
+  - icon: ti-signal
     title: toBio
     content: Somos a sua ligação ao mundo biológico
   - icon: ti-ruler-pencil
