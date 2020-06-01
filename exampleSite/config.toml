@@ -6,7 +6,7 @@ summaryLength = "15"
 theme = "tobio"
 title = "Tobio"
 [Languages.en]
-contentDir = "content/portuguese"
+contentDir = "content/english"
 home = "Home"
 languageCode = "pt-pt"
 languageName = "Pt"
