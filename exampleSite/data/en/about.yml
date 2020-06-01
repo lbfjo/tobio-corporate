@@ -3,6 +3,9 @@ about:
   enable: true
   title: Sobre Nós
   about_item:
+  - icon: "/images/favicon.png"
+    title: toBio
+    content: Somos a sua ligação ao mundo biológico
   - icon: ti-ruler-pencil
     title: Somos Criativos
     content: Jovens com muita ambição, imaginação e criatividade
