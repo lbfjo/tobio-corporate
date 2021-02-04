@@ -7,7 +7,7 @@ image_webp = "/images/tobio.png"
 title = "O que é a toBio?"
 
 +++
-Nos dias que correm, existe um crescimento da preocupação ambiental a nível global, tanto em termos de sustentabilidade como no impacto da produção de outros produtos que não biológicos e é desta forma que, ao ter uma população civilizada em termos gerais, o mercado de produtos biológicos está em expansão, tanto a nível de produtores como de consumidores. No entanto, há pouca divulgação acerca dos retalhos, qual o tipo de produtos que possuem, e qual é a qualidade do seus serviço e produtos.<https://www.ca-mobile.com/aHR0cHM6Ly93d3cudG9iaW8ucHQvYmxvZy9vLXF1ZS1lLWEtdG9iaW8tMS4yMDE5MTIwMzA3MjA0NC8=>
+Nos dias que correm, existe um crescimento da preocupação ambiental a nível global, tanto em termos de sustentabilidade como no impacto da produção de outros produtos que não biológicos e é desta forma que, ao ter uma população civilizada em termos gerais, o mercado de produtos biológicos está em expansão, tanto a nível de produtores como de consumidores. No entanto, há pouca divulgação acerca dos retalhos, qual o tipo de produtos que possuem, e qual é a qualidade do seus serviço e produtos.<maps://?address=One+Apple+Park+Way,Cupertino,United+States>
 
 Neste sentido, a toBio, uma empresa criada por um grupo de quatro jovens estudantes da licenciatura de Informática e Gestão de Empresas do ISCTE-IUL, no âmbito de projeto de final de curso, com o objetivo de desenvolver uma tecnologia de inovação do mercado tecnológico diretamente relacionado com o mercado biológico, concebeu a webapp toBio.<https://www.safari.com/>
 
